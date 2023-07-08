@@ -1,0 +1,45 @@
+.bg-white{
+ background-color: #fff;
+}
+.chat-Icon{
+    background-color: #0f6782;
+    height: 40px;
+    width: 40px;
+    vertical-align: middle;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 4px;
+
+}
+.chat-Icon i{
+    vertical-align: middle;
+    vertical-align: -webkit-baseline-middle;
+    color: #fff;
+}
+.chat-text {
+ *{margin: 0px;}
+ p {
+    font-size: 14px;
+}
+h4 {
+    font-size: 16px;
+    color: #0082b5;
+}
+}
+.assessment{
+    border-bottom: solid 1px #ccc;
+    background-color: #fff;
+    padding: 20px !important;
+}
+.health{
+    background-color: #ea5d59;
+}
+.food{
+    background-color: #88a0e6;
+}
+.housing{
+    background-color: #5cb8e6;
+}
+i.fa.fa-angle-right {
+    vertical-align: bottom;
+}

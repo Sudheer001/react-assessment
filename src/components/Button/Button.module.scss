@@ -1,0 +1,22 @@
+.btn.btn-bottom-nav {
+  padding: 20px 35px;
+  background: none;
+}
+.btn-primary{
+  background: #0082B5;
+  color:  #fff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px #eee;
+  border: none;
+  font-weight: 600;
+}
+.btn.selected {
+  background: #0082B5;
+  color: #fff;
+
+  &:hover, &:active, &:focus {
+    background: #0082B5;
+    color: #fff;
+  }
+}
